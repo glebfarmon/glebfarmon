@@ -47,7 +47,7 @@
 <h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,webpack,eslint,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,webpack,docker,aws" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
