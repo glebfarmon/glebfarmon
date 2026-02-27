@@ -1,6 +1,6 @@
-## Hi there, I'm Hlib! 👋
+<h1 align="center">Hi there, I'm Hlib! 👋</h1>
 
-# Fullstack Developer. Maybe a little more frontend 🥴
+<p align="center">Fullstack Developer. Maybe a little more frontend 🥴</p>
 
 ---
 
