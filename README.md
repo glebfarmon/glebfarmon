@@ -1,6 +1,6 @@
 ## Hi there, I'm Hlib! 👋
 
-# Fullstack Developer. Maybe a little more frontend
+# Fullstack Developer. Maybe a little more frontend 🥴
 
 ---
 
